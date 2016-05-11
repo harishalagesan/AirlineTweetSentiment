@@ -1,4 +1,4 @@
--->Airline Sentiment Twitter Project PROJECT  
+-->Airline Sentiment Twitter Project  
 
 -->Introduction
 This application allows user to perform various search queries on the available Airline sentiment data collection   
